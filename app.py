@@ -501,7 +501,6 @@ st.caption(
     "🎓 Sistema de Previsão de Desempenho Escolar "
     "• Modelo Random Forest • Dados sintéticos"
 )
-```
 
 ### Como executar
 
